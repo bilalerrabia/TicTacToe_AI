@@ -163,7 +163,6 @@ This project was developed as part of a school assignment to demonstrate:
 ## Future Improvements
 - Add a main menu for selecting game modes (e.g., PvP or AI).
 - Enhance AI difficulty levels.
-- Implement animations for moves.
 
 ---
 
